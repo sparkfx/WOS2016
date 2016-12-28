@@ -1,2 +1,3 @@
 ﻿Hello World!
 My name is Casey.
+Learning to use VIM is fun...kinda
