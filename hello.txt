@@ -1,3 +1,7 @@
 ﻿Hello World!
 My name is Casey.
+<<<<<<< HEAD
 Another change.
+=======
+Hello, again.
+>>>>>>> 65498f54878326c751f3fa804eb352c67256b54e
